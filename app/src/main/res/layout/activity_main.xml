@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="create" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/insert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="insert" />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="update" />
+    <Button
+        android:id="@+id/dalete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="delete" />
+    <Button
+        android:id="@+id/querty1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="querty1" />
+    <Button
+        android:id="@+id/querty2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="querty2" />
+    <Button
+        android:id="@+id/quertyall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="quertyall" />
+
+</LinearLayout>
